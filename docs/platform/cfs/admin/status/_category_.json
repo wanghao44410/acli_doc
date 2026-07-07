@@ -1,0 +1,8 @@
+﻿{
+  "label": "status",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "平台admin用户状态设置命令"
+  }
+}
