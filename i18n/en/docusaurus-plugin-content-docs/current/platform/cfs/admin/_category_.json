@@ -1,0 +1,8 @@
+{
+  "label": "status",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Platform admin user configuration related commands"
+  }
+}
