@@ -1,0 +1,8 @@
+{
+  "label": "sdn",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "sdn 相关命令"
+  }
+}

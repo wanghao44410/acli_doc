@@ -1,0 +1,8 @@
+{
+  "label": "wget",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "wget 相关命令"
+  }
+}

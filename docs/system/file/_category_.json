@@ -1,8 +1,8 @@
 {
-  "label": "anet",
+  "label": "file",
   "position": 1,
   "link": {
     "type": "doc",
-    "id": "service/anet/category"
+    "id": "system/file/category"
   }
 }

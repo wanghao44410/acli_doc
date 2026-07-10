@@ -1,0 +1,8 @@
+{
+  "label": "vtpclustat",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "vtpclustat 相关命令"
+  }
+}

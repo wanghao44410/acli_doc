@@ -1,0 +1,8 @@
+{
+  "label": "socket",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "socket Commands"
+  }
+}

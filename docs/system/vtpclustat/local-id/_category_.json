@@ -1,0 +1,8 @@
+{
+  "label": "local-id",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "local-id 相关命令"
+  }
+}

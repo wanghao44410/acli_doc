@@ -1,0 +1,8 @@
+{
+  "label": "route",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "route 相关命令"
+  }
+}
