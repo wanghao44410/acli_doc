@@ -1,0 +1,8 @@
+{
+  "label": "kafka-consumer-groups",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "kafka-consumer-groups Commands"
+  }
+}
